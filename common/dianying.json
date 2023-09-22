@@ -1,0 +1,23 @@
+var movie = [
+    {
+        "url": "https://4kysxz.top/",
+        "websitetext": "4K影视小站-专业的4K影视下载站",
+    	"imgurl": "https://api.iowen.cn/favicon/4kysxz.top.png"
+    },
+    {
+        "url": "https://www.mjtt5.tv/",
+        "websitetext": "美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！",
+    	"imgurl": "https://www.mjtt5.tv/st20/tc/css/c29c355c88660e295083cfcbd7ba6e78.jpeg"
+    },
+    {
+        "url": "https://www.xierizhi.cn/",
+        "websitetext": "VIP影院_免VIP抢先观看最新的好看电影和电视剧",
+    	"imgurl": "https://www.xierizhi.cn/templets/yycms3/img/vipimg.png"
+    },
+    {
+        "url": "http://www.ii166.com/",
+        "websitetext": "港剧下载_最新港剧下载_经典港剧_TVB港剧集中营",
+    	"imgurl": "http://www.ii166.com/zb_users/cache/thumbs/1a38835650af4bffbed80dc522949785-160-160-0.jpg"
+    }
+    
+];

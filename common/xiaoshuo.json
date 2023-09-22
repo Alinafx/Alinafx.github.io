@@ -1,0 +1,37 @@
+var novel = [
+    {
+        "url": "http://www.biquge33.net/",
+        "websitetext": "笔趣阁33-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "https://350.ooo/",
+        "websitetext": "三五小说网-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "https://www.qianyege.com/",
+        "websitetext": "千夜阁小说网-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "https://www.51eshu.com/",
+        "websitetext": "无忧小说-笔趣阁-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "http://www.iktxt.com/",
+        "websitetext": "爱看小说-笔趣阁-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "http://www.biquge99.net/",
+        "websitetext": "笔趣阁99-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    },
+    {
+        "url": "https://www.shuyibook.com/",
+        "websitetext": "书亦小说网-免费",
+    	"imgurl": "https://api.iowen.cn/favicon/www.biqu5200.net.png"
+    }
+];

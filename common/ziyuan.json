@@ -1,0 +1,62 @@
+var resource = [
+    {
+        "url": "https://www.superbed.cn/",
+        "websitetext": "聚合图床,免费图床",
+    	"imgurl": "https://www.hifast.cn/wp-content/uploads/2020/05/www.superbed.cn_.ico"
+    },
+    {
+        "url": "https://imgse.com/",
+        "websitetext": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
+    	"imgurl": "https://www.hifast.cn/wp-content/uploads/2020/05/favicon_1587118523486_91617a.png"
+    },
+    {
+        "url": "https://cn.bing.com/visualsearch?mkt=zh-CN",
+        "websitetext": "必应识图",
+    	"imgurl": "https://api.iowen.cn/favicon/cn.bing.com.png"
+    },
+    {
+        "url": "https://ttsmaker.com/",
+        "websitetext": "在线免费文字转语音 - TTSMaker",
+    	"imgurl": "https://api.iowen.cn/favicon/ttsmaker.com.png"
+    },
+    {
+        "url": "https://www.133game.net/",
+        "websitetext": "单机游戏下载中心",
+    	"imgurl": "https://www.hifast.cn/wp-content/uploads/2023/08/62cf2-www.133game.net.png"
+    },
+    {
+        "url": "https://nmsl.shadiao.app/",
+        "websitetext": "骂人宝典",
+    	"imgurl": "https://www.hifast.cn/wp-content/uploads/2022/01/20200918215748tsfx1318.png"
+    },
+    {
+        "url": "https://www.tishi.top/",
+        "websitetext": "ai提示语",
+    	"imgurl": "https://s0.wp.com/mshots/v1/www.tishi.top?w=383&h=328"
+    },
+    {
+        "url": "https://www.tiamat.com/",
+        "websitetext": "ai绘画",
+    	"imgurl": "https://cos-xica-prod.tiamat.world/user/Bf3b2mWBy8cHneJShvulr/createdimage/QuEBsMW2SONHRiXFWa35C.png?x-image-process=style/xica-wj80"
+    },
+    {
+        "url": "https://s0.wp.com/mshots/v1/16map.com?w=383&h=328",
+        "websitetext": "设计导航",
+    	"imgurl": "http://16map.com/?ref=nav.iowen.cn"
+    },
+	{
+	    "url": "https://subplayer.js.org/",
+	    "websitetext": "SubPlayer-免费在线字幕编辑工具。",
+		"imgurl": "https://pic1.zhimg.com/80/v2-654729858dbd4a3b1488cc7c5958b388_720w.webp"
+	},
+	{
+	    "url": "https://www.drawio.com/",
+	    "websitetext": "Diagrams-在线脑图，支持在线绘图，无需注册",
+		"imgurl": "https://www.drawio.com/assets/svg/home-dia1.svg"
+	},
+	{
+	    "url": "https://www.bmcx.com/",
+	    "websitetext": "便民查询网",
+		"imgurl": "https://pic3.zhimg.com/80/v2-3caebde3b3635e8eed6e58d6190b4d4a_720w.webp"
+	}
+];

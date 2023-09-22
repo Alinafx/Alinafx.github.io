@@ -1,0 +1,47 @@
+var photo = [
+    {
+        "url": "https://www.hmecy.com/",
+        "websitetext": "幻猫ACG – 二次元资源分享站",
+		"imgurl": "https://www.hifast.cn/wp-content/uploads/2021/02/%E8%B5%84%E6%BA%90-1-8.png"
+    },
+    {
+        "url": "https://www.madouplus.com/",
+        "websitetext": "麻豆夹-美女图片-性感写真 - 秀人套图",
+    	"imgurl": "https://api.iowen.cn/favicon/www.madouplus.com.png"
+    },
+    {
+        "url": "https://www.acgtang.com/",
+        "websitetext": "次元堂 – 二次元cosplay分享平台",
+    	"imgurl": "https://www.hifast.cn/wp-content/uploads/2021/02/favicon-1-5.ico"
+    },
+	{
+	    "url": "https://www.meitu.com/",
+	    "websitetext": "美图吧-美国",
+		"imgurl": "https://www.hifast.cn/wp-content/uploads/2021/02/favicon-11.ico"
+	},
+	{
+	    "url": "http://ww12.mmkk.me/",
+	    "websitetext": "MMKK - 不一样的美女图库分享网站",
+		"imgurl": "https://www.hifast.cn/wp-content/uploads/2021/02/favicon-12.ico"
+	},
+	{
+	    "url": "http://49.232.241.204/index/",
+	    "websitetext": "源图坊 - cosplay,套图写真，二次元，美足，丝袜",
+		"imgurl": "http://49.232.241.204:80/wp-content/uploads/2023/09/16043903225.png"
+	},
+	{
+	    "url": "https://www.mtgxz.com/?ref=www.jspoo.com",
+	    "websitetext": "美图阁-只为提供最新最精美的各类妹子",
+		"imgurl": "https://image.suning.cn/uimg/ZR/share_order/168234942275817155.jpg"
+	},
+	{
+	    "url": "https://wallhere.com/",
+	    "websitetext": "Wallhere壁纸-世界著名的壁纸网站",
+		"imgurl": "https://api.iowen.cn/favicon/wallhere.com.png"
+	},
+	{
+	    "url": "https://pic.netbian.com/",
+	    "websitetext": "彼岸4K-专注提供高清桌面壁纸下载",
+		"imgurl": "https://api.iowen.cn/favicon/www.netbian.com.png"
+	}
+];

@@ -1,0 +1,47 @@
+var comic = [
+    {
+        "url": "http://www.qiman52.com/?ref=www.jspoo.com",
+        "websitetext": "奇漫屋",
+    	"imgurl": "https://api.iowen.cn/favicon/www.qiman57.com.png"
+    },
+    {
+        "url": "https://www.colamanhua.com/",
+        "websitetext": "COLA漫画-日本",
+    	"imgurl": "https://api.iowen.cn/favicon/www.colamanhua.com.png"
+    },
+    {
+        "url": "https://www.gufengmh.com/?ref=www.jspoo.com",
+        "websitetext": "古风漫画",
+    	"imgurl": "https://api.iowen.cn/favicon/www.123gf.com.png"
+    },
+    {
+        "url": "http://www.mhxqiu2.com/16177/",
+        "websitetext": "漫画星球",
+    	"imgurl": "https://p1-tt.bytecdn.cn/tos-cn-i-0000c0107/okVzfBisNDIAcACJEAAQhtyCBoh4yIA3jAxWQM~noop.jpg"
+    },
+    {
+        "url": "https://www.lfntfm.com/",
+        "websitetext": "茄子漫画-最新最热的漫画",
+    	"imgurl": "https://www.lfntfm.com/template/pc/default/images/icon/ic_index_class_lx.png?v=e163c2a"
+    },
+    {
+        "url": "http://www.gugu5.com/",
+        "websitetext": "古古漫画",
+    	"imgurl": "http://www.gugu5.com/upload2/51467/2023/03-17/20230317111136ef95v7_small.jpg"
+    },
+    {
+        "url": "http://www.nnhem.com/",
+        "websitetext": "贺贺漫画-免费在线漫画平台",
+    	"imgurl": "https://js.bybcar.com/kimixin/static/qm/img/gengxin.jpg"
+    },
+    {
+        "url": "http://www.ykqzy.com/",
+        "websitetext": "包子漫画_提供免费下拉式漫画免费阅读_萤火虫漫画",
+    	"imgurl": "http://www.ykqzy.com/static/system/visitor.png"
+    },
+    {
+        "url": "http://www.bzdyw.com/",
+        "websitetext": "风车漫画-免费在线漫画平台",
+    	"imgurl": "https://js.bybcar.com/kimixin/static/qm/img/remen.jpg"
+    }
+];
